@@ -1,5 +1,7 @@
 <div align='center'>
   <img height="150px" width="150px" src="https://66.media.tumblr.com/72a3c45a9850923907d90e567ca91157/tumblr_puy185Olb61tawgedo1_400.gif">
+    <img height="150px" width="150px" src="https://giphy.com/gifs/VbnUQpnihPSIgIXuZv">
+
 </div>
 
 ## 🐈 Hey, I'm Stanley! 
