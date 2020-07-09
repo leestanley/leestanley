@@ -1,3 +1,7 @@
+<div align='center'>
+  <img height="150px" width="150px" src="https://66.media.tumblr.com/72a3c45a9850923907d90e567ca91157/tumblr_puy185Olb61tawgedo1_400.gif">
+</div>
+
 ## 🐈 Hey, I'm Stanley! 
 
 I'm currently a 3rd year data science major/design minor at UCSD learning web development on the side. I go to a bunch of hackathons, store every cat picture I see, and video edit in my free time. Thanks for visiting my profile! 
@@ -58,6 +62,8 @@ I'm currently a 3rd year data science major/design minor at UCSD learning web de
 
 ## :link: Important links
 [__Linkedin__](https://www.linkedin.com/in/leestanleysg/) • [__Website__](https://leestanley.me) • [__Devpost__](https://devpost.com/leestanley) • [__Email__](mailto:stl005@ucsd.edu)
+
+![](https://wifflegif.com/gifs/681441-one-day-ill-make-a-cream-heroes-gif)
 
 
 <!--
