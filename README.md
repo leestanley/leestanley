@@ -1,7 +1,3 @@
-<div align='center'>
-  <img height="150px" width="150px" src="https://i.imgur.com/7GKsxLN.png">
-</div>
-
 ## 🐈 Hey, I'm Stanley! 
 
 I'm currently a 3rd year data science major/design minor at UCSD learning web development on the side. I go to a bunch of hackathons, store every cat picture I see, and video edit in my free time. Thanks for visiting my profile! 
