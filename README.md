@@ -1,6 +1,6 @@
 <div align='center'>
   <img height="150px" width="150px" src="https://66.media.tumblr.com/72a3c45a9850923907d90e567ca91157/tumblr_puy185Olb61tawgedo1_400.gif">
-  <img height="150px" width="150px" src="https://media.tenor.com/images/8ddd2349331785fb7e3b665c4ca4ba05/tenor.gif">
+  <img height="150px" width="150px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif">
   <img height="150px" width="150px" src="https://media0.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif">
 </div>
 
