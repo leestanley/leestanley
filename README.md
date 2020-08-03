@@ -13,7 +13,7 @@ I'm currently a 3rd year data science major/design minor at UCSD learning web de
 
  * I'm also secretly [working on a startup](https://wistly.io/) on the side, if you're interested in being a React Native developer for us, please reach out!
  
-## 👨‍💻 Hackathon Projects: 18 total
+## 👨‍💻 Hackathon Projects: 20 total
 <details>
 <summary><strong>Click to expand</strong></summary>
   
