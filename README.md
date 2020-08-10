@@ -9,7 +9,7 @@ I'm currently a 3rd year data science major/design minor at UCSD learning web de
 
 ## 🔷 Activities and Involvements
 
-* I'm currently an intern at ServiceNow, Assistant Director for [SD Hacks](https://www.sdhacks.io/), and VP Development of [ACM @ UCSD](https://acmucsd.com/)! I work on maintaining the web portal for 1000+ students with React.js, Redux.js, and Less. You can usually find me at socials and events, feel free to say hi to me! 
+* I'm currently a TPM intern at ServiceNow, Assistant Director for [SD Hacks](https://www.sdhacks.io/), and VP Development of [ACM @ UCSD](https://acmucsd.com/)! I work on maintaining the web portal for 1000+ students with React.js, Redux, and Less. You can usually find me at socials and events, feel free to say hi to me! 
 
  * I'm also secretly [working on a startup](https://wistly.io/) on the side, if you're interested in being a React Native developer for us, please reach out!
  
