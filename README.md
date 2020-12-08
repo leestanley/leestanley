@@ -5,11 +5,11 @@
 
 ## 🐈 Hey, I'm Stanley! 
 
-I'm currently a 3rd year data science major/design minor at UCSD learning web development on the side. I go to a bunch of hackathons, store every cat picture I see, and video edit in my free time. Thanks for visiting my profile! 
+I'm currently a 3rd year cog sci: design & interaction major at UCSD doing web development on the side. I go to a bunch of hackathons, store every cat picture I see, and video edit in my free time. Thanks for visiting my profile! 
 
 ## 🔷 Activities and Involvements
 
-* I'm currently a TPM intern at ServiceNow, Assistant Director for [SD Hacks](https://www.sdhacks.io/), and VP Development of [ACM @ UCSD](https://acmucsd.com/)! I work on maintaining the web portal for 1000+ students with React.js, Redux, and Less. You can usually find me at socials and events, feel free to say hi to me! 
+*  Hobbyist programmer now doing product stuff. Interning as a product management intern this summer in the bay. 
 
  * I'm also secretly [working on a startup](https://wistly.io/) on the side, if you're interested in being a React Native developer for us, please reach out!
  
