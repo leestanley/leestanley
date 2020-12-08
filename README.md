@@ -5,7 +5,7 @@
 
 ## 🐈 Hey, I'm Stanley! 
 
-I'm currently a 3rd year cog sci: design & interaction major at UCSD doing web development on the side. I go to a bunch of hackathons, store every cat picture I see, and video edit in my free time. Thanks for visiting my profile! 
+I'm currently a 3rd year cog sci design & interaction major at UCSD doing web development on the side. I go to a bunch of hackathons, store every cat picture I see, and video edit in my free time. Thanks for visiting my profile! 
 
 ## 🔷 Activities and Involvements
 
