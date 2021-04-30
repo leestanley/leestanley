@@ -9,7 +9,8 @@ I'm currently a 3rd year cog sci design & interaction major at UCSD doing web de
 
 ## 🔷 Activities and Involvements
 
-*  Hobbyist programmer now doing product stuff. Interning as a product management intern this summer in the bay. 
+*  Hobbyist programmer now doing product stuff. Interning as a product management intern this summer ~~in the bay~~ in San Diego remotely. 
+*  Currently a venture partner at [Contrary](https://contrarycap.com/). Have a cool idea? Email me at stanley[at]contrarycap.com
 
 ## 👨‍💻 Hackathon Projects: 30 total
 <details>
