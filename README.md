@@ -11,9 +11,7 @@ I'm currently a 3rd year cog sci design & interaction major at UCSD doing web de
 
 *  Hobbyist programmer now doing product stuff. Interning as a product management intern this summer in the bay. 
 
- * I'm also secretly [working on a startup](https://wistly.io/) on the side, if you're interested in being a React Native developer for us, please reach out!
- 
-## 👨‍💻 Hackathon Projects: 28 total
+## 👨‍💻 Hackathon Projects: 30 total
 <details>
 <summary><strong>Click to expand</strong></summary>
   
