@@ -5,11 +5,11 @@
 
 ## 🐈 Hey, I'm Stanley! 
 
-I'm currently a 3rd year cog sci design & interaction major at UCSD doing web development on the side. I go to a bunch of hackathons, store every cat picture I see, and video edit in my free time. Thanks for visiting my profile! 
+I'm currently a 4th year cog sci design & interaction major at UCSD doing web development on the side. I go to a bunch of hackathons, store every cat picture I see, and video edit in my free time. Thanks for visiting my profile! 
 
 ## 🔷 Activities and Involvements
 
-*  Hobbyist programmer now doing product stuff. Interning as a product management intern this summer ~~in the bay~~ in San Diego remotely. 
+*  Hobbyist programmer now doing product stuff. Interning as a product management intern this summer at NVIDIA. 
 *  Currently a venture partner at [Contrary](https://contrarycap.com/). Have a cool idea? Email me at stanley[at]contrarycap.com
 
 ## 👨‍💻 Hackathon Projects: 30 total
