@@ -5,65 +5,11 @@
 
 ## 🐈 Hey, I'm Stanley! 
 
-I'm currently a 4th year cog sci design & interaction major at UCSD doing web development on the side. I go to a bunch of hackathons, store every cat picture I see, and video edit in my free time. Thanks for visiting my profile! 
-
-## 🔷 Activities and Involvements
-
-*  Hobbyist programmer now doing product stuff. Interning as a product management intern this summer at NVIDIA. 
-*  Currently a venture partner at [Contrary](https://contrarycap.com/). Have a cool idea? Email me at stanley[at]contrarycap.com
-
-## 👨‍💻 Hackathon Projects: 30 total
-<details>
-<summary><strong>Click to expand</strong></summary>
-  
-    ⚠ This isn't fully updated yet! Check my devpost below for all of the projects 
-
-1. __SD HACKS 2018: [✈️ Unravel Travel](https://github.com/leestanley/SDHacks2018)__
-    * Front-end: Bootstrap, Sass, Javascript 
-
-2. __Sac Hacks 2018: [📰 ReBias](https://github.com/leestanley/Sachacks-2018-rebias)__
-    * Back-end: Flask, Pandas, Matplotlib 
-
-3. __SBHacks 2019: [📹 YouScribe](https://github.com/leestanley/SBHacks-2019)__
-    * Full-Stack: TextBlob, Flask, Clarifai, PyTube, HTML5, CSS3
-
-4. __Hard Hacks 2019: [📸 Noggin Login](https://github.com/leestanley/SBHacks-2019)__
-    * Back-end: OpenCV, Google Speech to text, Speech, and Storage API, TextBlob
-
-5. __Webroot Coding Challenge 2019: [🎮 Webroot Game Algorithim](https://github.com/leestanley/Webroot)__
-    * Back-end: Use of data structures - libraries and API's were not allowed 
-
-6. __Slo Hacks 2019: [🏋️ Weight Buddies](https://github.com/jeffrey447/slohacks2k19)__
-    * Full-Stack: Bootstrap, Sass, Javascript, React, Flask, MongoDB
-
-7. __Hacktech 2019 [🥔 MarketPeel](https://github.com/leestanley/hacktech-2019)__
-    * Back-end: Beautiful Soup, Flask, Flask-WTF
-
-8. __LA Hacks 2019: [🔥 STOREM](https://lahacks2019-ff0ad.firebaseapp.com)__
-    * 🥈 __LA Hacks 2nd Place for Google Cloud Platform__
-    * Back-end: Firebase Realtime Database, Google Maps API
-
-9. __HackXX 2019: [🏡 SafeHouse](https://devpost.com/software/safehouse-tlbey7)__
-    * 🥉 __HackXX 3rd Place Overall__
-    * Back-end: Twilio SMS API, Google Maps API, Firebase Firestore, Flask, WTForms
-
-10. __HackSC 2019: [📦 Delivrr](https://devpost.com/software/delivrr)__
-    * 📈 __Accepted under UCSD's Summer Incubator for startups__
-    * Back-end: Node.js, Express.js, Firebase Realtime Database
-
-11. __TwitchCon 2019: [📷 Twitch Throwbacks](https://devpost.com/software/twitch-throwbacks)__
-    * 🗣️ __Presented on the TwitchDev channel for 1,400 viewers__
-    * Front-end: React.js, Ant Design Library, Fetch
-
-12. __SD Hacks 2019: [🔹 Vight](https://devpost.com/software/vight)__
-    * Front-end: Front-end: React.js, Ant Design Library, Konva, ParticleJS
-
-</details>
+I'm a graduate from UCSD with a degree in Cognitive Science: Design and Interaction. In the past, I did hackathons and frontend work but now I'm more on the design and product side of things. 
 
 ## :link: Important links
 [__Linkedin__](https://www.linkedin.com/in/leestanleysg/) • [__Website__](https://leestanley.me) • [__Devpost__](https://devpost.com/leestanley) • [__Email__](mailto:stl005@ucsd.edu)
 
-![](https://wifflegif.com/gifs/681441-one-day-ill-make-a-cream-heroes-gif)
 
 
 <!--
