@@ -5,7 +5,7 @@
 
 ## 🐈 Hey, I'm Stanley! 
 
-I'm a graduate from UCSD with a degree in Cognitive Science: Design and Interaction. In the past, I did hackathons and frontend work but now I'm more on the design and product side of things. 
+I'm a graduate from UCSD currently working at @NVIDIA. In the past, I did hackathons and frontend work but now I'm more on the design and product side of things. 
 
 ## :link: Important links
 [__Linkedin__](https://www.linkedin.com/in/leestanleysg/) • [__Website__](https://leestanley.me) • [__Devpost__](https://devpost.com/leestanley) • [__Email__](mailto:stl005@ucsd.edu)
