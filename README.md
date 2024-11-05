@@ -1,6 +1,6 @@
 ## 🐈 Hey, I'm Stanley! 
 
-I'm a graduate from UCSD currently working at NVIDIA as a product manager.
+Currently working at NVIDIA as a product manager.
 
 ## :link: Important links
 [__Linkedin__](https://www.linkedin.com/in/leestanleysg/) • [__Website__](https://leestanley.me) • [__Devpost__](https://devpost.com/leestanley) • [__Email__](mailto:stl005@ucsd.edu)
