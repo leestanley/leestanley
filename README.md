@@ -1,9 +1,9 @@
 ## 🐈 Hey, I'm Stanley! 
 
-Currently working at NVIDIA as a product manager.
+Currently working at Google as a product manager.
 
 ## :link: Important links
-[__Linkedin__](https://www.linkedin.com/in/leestanleysg/) • [__Website__](https://leestanley.me) • [__Devpost__](https://devpost.com/leestanley) • [__Email__](mailto:stl005@ucsd.edu)
+[__Linkedin__](https://www.linkedin.com/in/leestanleysg/) • [__Website__](https://leestanley.me) • [__Devpost__](https://devpost.com/leestanley) 
 
 
 
